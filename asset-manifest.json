@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/QuotesForLIFE.com/static/css/main.03c14f94.css",
-    "main.js": "/QuotesForLIFE.com/static/js/main.c7b97e41.js",
-    "static/media/city.jpeg": "/QuotesForLIFE.com/static/media/city.ca474d026dec0bbfb425.jpeg",
-    "index.html": "/QuotesForLIFE.com/index.html",
-    "main.03c14f94.css.map": "/QuotesForLIFE.com/static/css/main.03c14f94.css.map",
-    "main.c7b97e41.js.map": "/QuotesForLIFE.com/static/js/main.c7b97e41.js.map"
+    "main.css": "/QuotesForLIFE/static/css/main.171fd5b8.css",
+    "main.js": "/QuotesForLIFE/static/js/main.c7b97e41.js",
+    "static/media/city.jpeg": "/QuotesForLIFE/static/media/city.ca474d026dec0bbfb425.jpeg",
+    "index.html": "/QuotesForLIFE/index.html",
+    "main.171fd5b8.css.map": "/QuotesForLIFE/static/css/main.171fd5b8.css.map",
+    "main.c7b97e41.js.map": "/QuotesForLIFE/static/js/main.c7b97e41.js.map"
   },
   "entrypoints": [
-    "static/css/main.03c14f94.css",
+    "static/css/main.171fd5b8.css",
     "static/js/main.c7b97e41.js"
   ]
 }
